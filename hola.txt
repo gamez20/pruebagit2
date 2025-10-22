@@ -1,4 +1,9 @@
 hola cristian , cambio de Santiago
+<<<<<<< HEAD
 ho soy cris , cambio cris
 gchgvhhjcgvjvjvhvjv
+=======
+ho soy cris , cambio cris 
+sadgsdfgsdfgsdfgsdfgdfgssdfgsdfg
+>>>>>>> b48c95eb136747a10e3ec2c5f5af362499914dbd
 hola como estas
